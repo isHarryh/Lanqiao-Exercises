@@ -1,5 +1,7 @@
 # 43690 - 九宫幻方
 
+![Year: 2017](https://img.shields.io/badge/Year-2017-white)
+![Level: Provincial](https://img.shields.io/badge/Level-Provincial-blue)
 ![Python3](https://img.shields.io/badge/Python3-AC-green)
 
 ## 题目

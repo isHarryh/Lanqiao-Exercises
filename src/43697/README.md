@@ -1,5 +1,7 @@
 # 43697 - 机器人塔
 
+![Year: 2016](https://img.shields.io/badge/Year-2016-white)
+![Level: National](https://img.shields.io/badge/Level-National-purple)
 ![Python3](https://img.shields.io/badge/Python3-AC-green)
 
 ## 题目

@@ -1,5 +1,7 @@
 # 43689 - 包子凑数
 
+![Year: 2017](https://img.shields.io/badge/Year-2017-white)
+![Level: Provincial](https://img.shields.io/badge/Level-Provincial-blue)
 ![Java11](https://img.shields.io/badge/Java11-AC-green)
 ![Python3](https://img.shields.io/badge/Python3-AC-green)
 ![PyPy7](https://img.shields.io/badge/PyPy7-AC-green)
