@@ -14,7 +14,7 @@ X 星球的机器人表演拉拉队有两种服装， $A$ 和 $B$ 。
 
 类似：
 
-$$
+```math
 \begin{matrix}
 A \\
 BB \\
@@ -23,7 +23,7 @@ AABB \\
 BBBAB \\
 ABABBA \\
 \end{matrix}
-$$
+```
 
 队内的组塔规则是：
 
