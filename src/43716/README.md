@@ -1,5 +1,10 @@
 # 43716 - 序列计数
 
+![Year: 2020](https://img.shields.io/badge/Year-2020-white)
+![Level: Provincial Mock](https://img.shields.io/badge/Level-Provincial%20Mock-blue)
+![Python3](https://img.shields.io/badge/Python3-TLE-yellow)
+![PyPy7](https://img.shields.io/badge/PyPy7-AC-green)
+
 ## 题目
 
 ### 题目描述
