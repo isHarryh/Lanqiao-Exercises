@@ -53,7 +53,7 @@
 
 由于本题的输入范围较小，以上暴力算法是可行的。但是如果输入更大的话，就需要使用数学方法来进行优化了。
 
-> 引理： 
+> 引理：
 > ```math
 > |\alpha|+|\beta| = \max\{\alpha+\beta, -\alpha+\beta, -\alpha-\beta, \alpha-\beta\}
 >```
